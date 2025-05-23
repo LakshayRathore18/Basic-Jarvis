@@ -1,0 +1,9 @@
+# Packages
+    speechrecognition 
+    pyaudio
+    setuptools
+    pyttsx3
+    webbrowser(in built)
+    pywhatkit
+    python dotenv something too 
+
